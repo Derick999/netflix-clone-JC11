@@ -48,10 +48,27 @@ body{
 .welcome{
     color: white;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 .welcome-text{
+    margin-top: 60px;
     font-size: 40px;
+    font-weight: bold;
+}
+
+.timeline-text{
+    color: #8c8c8c;
+    font-size: 20px;
+}
+
+.column{
+    float: left;
+    width: 33.33%;
+    font-size: 20px;
+}
+
+.green{
+    color: #00d65f;
     font-weight: bold;
 }
