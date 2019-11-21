@@ -72,3 +72,20 @@ body{
     color: #00d65f;
     font-weight: bold;
 }
+
+.row{
+    padding-bottom: 30px;
+}
+
+.timeline-bar{
+    background: -webkit-gradient(linear, left top, right top, color-stop(10%, #00d65f), color-stop(50%, #308234), color-stop(50%, #3f3f3f), color-stop(85%, #3f3f3f), to(rgba(63, 63, 63, 0)));
+    width: 80%;
+    height: 30px;
+    margin-left: 74px;
+    border-radius: 15px;
+}
+
+.timeline{
+    align-items: center;
+
+}
