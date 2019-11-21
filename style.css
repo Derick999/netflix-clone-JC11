@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0;
+}
+
+.section-1 .bg-image{
+    margin-top: 0;
+    width: 100%;
+    max-width: none;
+    height: 100%;
+}
+
+.section-1{
+    background-image: url("hero-background.jpg");
+    background-size: auto;
+    background-repeat: no-repeat;
+    height: 700px;
+    
+}
+
+.header{
+    display: flex;
+    height: 80px;
+    max-width: 1920px;
+    justify-content: space-between;
+}
+
+.logo{
+    height: 80px;
+    width: auto;
+    margin-top: -5%;
+    padding-left: 10px;
+}
+
+.sign-in button{
+    background-color: red;
+    color: white;
+    padding: 7px 20px 7px 20px;
+    border: none;
+    margin-right: 30px;
+    margin-top: 15px;
+    font-weight: 500;
+    border-radius: 3px;
+    font-size: 16px;
+}
+
+.welcome{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.welcome-text{
+    font-size: 40px;
+    font-weight: bold;
+}
