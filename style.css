@@ -99,11 +99,13 @@ body{
 
 .welcome-button button{
     margin-top: 20px;
-    width: 300px;
+    width: 220px;
     height: 44px;
     border: none;
     color: white;
     font-size: 16px;
+    cursor: pointer;
+    outline: none;
 }
 
 .red{
